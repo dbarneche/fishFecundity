@@ -1,0 +1,543 @@
+order,family,genus,species,spawningModeDetailed,spawningModeCode,source
+Anguilliformes,Muraenesocidae,Muraenesox,Muraenesox cinereus,pelagic,P,NA
+Atheriniformes,Atherinidae,Atherina,Atherina boyeri,demersal,D,http://www.fishbase.org/summary/Atherina-boyeri
+Atheriniformes,Atherinidae,Atherina,Atherina presbyter,demersal,D,http://www.fishbase.org/summary/Atherina-presbyter
+Atheriniformes,Atherinopsidae,Atherinopsis,Atherinopsis californiensis,demersal,D,http://www.fishbase.org/summary/Atherinopsis-californiensis
+Atheriniformes,Atherinopsidae,Leuresthes,Leuresthes tenuis,demersal,D,http://www.fishbase.org/summary/Leuresthes-tenuis
+Atheriniformes,Atherinopsidae,Membras,Membras gilberti,demersal,D,NA
+Atheriniformes,Atherinopsidae,Membras,Membras martinica,pelagic,P,NA
+Atheriniformes,Atherinopsidae,Menidia,Menidia menidia,demersal,D,http://www.fishbase.org/summary/Menidia-menidia
+Atheriniformes,Atherinopsidae,Odontesthes,Odontesthes argentinensis,demersal,D,NA
+Aulopiformes,Synodontidae,Synodus,Synodus intermedius,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Batrachoidiformes,Batrachoididae,Porichthys,Porichthys notatus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Beloniformes,Exocoetidae,Cheilopogon,Cheilopogon pinnatibarbatus,pelagic,P,NA
+Beloniformes,Exocoetidae,Hirundichthys,Hirundichthys affinis,demersal,D,NA
+Beloniformes,Hemiramphidae,Hemiramphus,Hemiramphus brasiliensis,demersal,D,NA
+Beloniformes,Hemiramphidae,Hyporhamphus,Hyporhamphus quoyi,pelagic,P,NA
+Beloniformes,Scomberesocidae,Scomberesox,Scomberesox saurus,pelagic,P,http://www.fishbase.org/summary/Scomberesox-saurus
+Beryciformes,Trachichthyidae,Hoplostethus,Hoplostethus atlanticus,pelagic,P,http://www.fishbase.org/summary/Hoplostethus-atlanticus
+Clupeiformes,Clupeidae,Alosa,Alosa mediocris,demersal,D,http://www.fishbase.org/summary/Alosa-mediocris
+Clupeiformes,Clupeidae,Amblygaster,Amblygaster sirm,pelagic,P,NA
+Clupeiformes,Clupeidae,Brevoortia,Brevoortia patronus,pelagic,P,NA
+Clupeiformes,Clupeidae,Brevoortia,Brevoortia tyrannus,pelagic,P,http://www.fishbase.org/summary/Brevoortia-tyrannus
+Clupeiformes,Clupeidae,Clupea,Clupea harengus,demersal,D,http://www.fishbase.org/summary/Clupea-harengus
+Clupeiformes,Clupeidae,Clupea,Clupea pallasii,demersal,D,http://www.fishbase.org/summary/Clupea-pallasii
+Clupeiformes,Clupeidae,Ethmalosa,Ethmalosa fimbriata,pelagic,P,http://www.fishbase.org/summary/Ethmalosa-fimbriata
+Clupeiformes,Clupeidae,Hyperlophus,Hyperlophus vittatus,pelagic,P,http://www.fishbase.org/summary/Hyperlophus-vittatus
+Clupeiformes,Clupeidae,Nematalosa,Nematalosa vlaminghi,pelagic,P,http://www.fishbase.org/summary/Nematalosa-vlaminghi
+Clupeiformes,Clupeidae,Opisthonema,Opisthonema libertate,pelagic,P,http://www.fishbase.org/summary/Opisthonema-libertate
+Clupeiformes,Clupeidae,Opisthonema,Opisthonema medirastre,pelagic,P,assumed to be the same across Opisthonema spp.
+Clupeiformes,Clupeidae,Sardina,Sardina pilchardus,pelagic,P,http://www.fishbase.org/summary/Sardina-pilchardus
+Clupeiformes,Clupeidae,Sardinops,Sardinops sagax,pelagic,P,http://www.fishbase.org/summary/Sardinops-sagax
+Clupeiformes,Clupeidae,Spratelloides,Spratelloides gracilis,demersal,D,NA
+Clupeiformes,Clupeidae,Sprattus,Sprattus sprattus,pelagic,P,http://www.fishbase.org/summary/Sprattus-sprattus
+Clupeiformes,Clupeidae,Strangomera,Strangomera bentincki,pelagic,P,http://www.fishbase.org/summary/Strangomera-bentincki
+Clupeiformes,Engraulidae,Anchoa,Anchoa mitchilli,pelagic,P,http://www.fishbase.org/summary/Anchoa-mitchilli
+Clupeiformes,Engraulidae,Anchoviella,Anchoviella lepidentostole,pelagic,P,http://www.fishbase.org/summary/Anchoviella-lepidentostole
+Clupeiformes,Engraulidae,Cetengraulis,Cetengraulis mysticetus,pelagic,P,http://www.fishbase.org/summary/Cetengraulis-mysticetus
+Clupeiformes,Engraulidae,Encrasicholina,Encrasicholina heteroloba,pelagic,P,http://www.fishbase.org/summary/Encrasicholina-heteroloba
+Clupeiformes,Engraulidae,Encrasicholina,Encrasicholina purpurea,pelagic,P,http://www.fishbase.org/summary/Encrasicholina-purpurea
+Clupeiformes,Engraulidae,Engraulis,Engraulis anchoita,pelagic,P,assumed to be the same as Engraulis encrasicolus
+Clupeiformes,Engraulidae,Engraulis,Engraulis encrasicolus,pelagic,P,http://www.fishbase.org/summary/Engraulis-encrasicolus
+Clupeiformes,Engraulidae,Engraulis,Engraulis japonicus,pelagic,P,http://www.fishbase.org/summary/Engraulis-japonicus
+Clupeiformes,Engraulidae,Engraulis,Engraulis mordax,pelagic,P,http://www.fishbase.org/summary/Engraulis-mordax
+Clupeiformes,Engraulidae,Engraulis,Engraulis ringens,pelagic,P,http://www.fishbase.org/summary/Engraulis-ringens
+Clupeiformes,Pristigasteridae,Ilisha,Ilisha africana,pelagic,P,NA
+Cyprinodontiformes,Cyprinodontidae,Cyprinodon,Cyprinodon variegatus,demersal,D,http://www.fishbase.org/summary/Cyprinodon-variegatus
+Cyprinodontiformes,Fundulidae,Fundulus,Fundulus heteroclitus,demersal,D,http://www.fishbase.org/summary/Fundulus-heteroclitus
+Cyprinodontiformes,Fundulidae,Fundulus,Fundulus xenicus,demersal,D,http://www.fishbase.org/summary/Adinia-xenica
+Cyprinodontiformes,Fundulidae,Lucania,Lucania goodei,demersal,D,assumed to be the same as Lucania parva
+Cyprinodontiformes,Fundulidae,Lucania,Lucania parva,demersal,D,http://www.fishbase.org/summary/Lucania-parva
+Gadiformes,Gadidae,Boreogadus,Boreogadus saida,pelagic,P,http://www.fishbase.org/summary/Boreogadus-saida
+Gadiformes,Gadidae,Eleginus,Eleginus nawaga,demersal,D,http://www.fishbase.org/summary/Eleginus-nawaga
+Gadiformes,Gadidae,Gadus,Gadus morhua,pelagic,P,http://www.fishbase.org/summary/Gadus-morhua
+Gadiformes,Gadidae,Melanogrammus,Melanogrammus aeglefinus,pelagic,P,http://www.fishbase.org/summary/Melanogrammus-aeglefinus
+Gadiformes,Gadidae,Merlangius,Merlangius merlangus,pelagic,P,http://www.fishbase.org/summary/Merlangius-merlangus
+Gadiformes,Gadidae,Micromesistius,Micromesistius australis,pelagic,P,NA
+Gadiformes,Gadidae,Pollachius,Pollachius pollachius,pelagic,P,http://www.fishbase.org/summary/Pollachius-pollachius
+Gadiformes,Gadidae,Pollachius,Pollachius virens,pelagic,P,http://www.fishbase.org/summary/Pollachius-virens
+Gadiformes,Gadidae,Trisopterus,Trisopterus esmarkii,pelagic,P,http://www.fishbase.org/summary/Trisopterus-esmarkii
+Gadiformes,Gadidae,Trisopterus,Trisopterus minutus,pelagic,P,http://www.fishbase.org/summary/Trisopterus-minutus
+Gadiformes,Lotidae,Ciliata,Ciliata mustela,pelagic,P,http://www.fishbase.org/summary/Ciliata-mustela
+Gadiformes,Lotidae,Enchelyopus,Enchelyopus cimbrius,pelagic,P,http://www.fishbase.org/summary/Enchelyopus-cimbrius
+Gadiformes,Lotidae,Molva,Molva molva,pelagic,P,http://www.fishbase.org/summary/Molva-molva
+Gadiformes,Macrouridae,Coelorinchus,Coelorinchus australis,pelagic,P,NA
+Gadiformes,Merlucciidae,Merluccius,Merluccius gayi,pelagic,P,NA
+Gadiformes,Merlucciidae,Merluccius,Merluccius hubbsi,pelagic,P,NA
+Gadiformes,Merlucciidae,Merluccius,Merluccius merluccius,pelagic,P,http://www.fishbase.org/summary/Merluccius-merluccius
+Gadiformes,Phycidae,Urophycis,Urophycis chuss,pelagic,P,http://www.fishbase.org/summary/Urophycis-chuss
+Gasterosteiformes,Gasterosteidae,Gasterosteus,Gasterosteus aculeatus,demersal,D,http://www.fishbase.org/summary/Gasterosteus-aculeatus
+Gobiesociformes,Gobiesocidae,Apletodon,Apletodon dentatus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Gobiesociformes,Gobiesocidae,Diplecogaster,Diplecogaster bimaculata,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Gobiesociformes,Gobiesocidae,Lepadogaster,Lepadogaster lepadogaster,demersal,D,http://www.fishbase.org/summary/Lepadogaster-lepadogaster
+Gobiesociformes,Gobiesocidae,Lepadogaster,Lepadogaster purpurea,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Mugiliformes,Mugilidae,Chelon,Chelon labrosus,pelagic,P,all Mugilidae are assumed to be pelagic
+Mugiliformes,Mugilidae,Chelon,Chelon ramada,pelagic,P,all Mugilidae are assumed to be pelagic
+Mugiliformes,Mugilidae,Mugil,Mugil cephalus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Mugiliformes,Mugilidae,Mugil,Mugil curema,pelagic,P,assumed to be the same across Mugil spp.
+Mugiliformes,Mugilidae,Mugil,Mugil hospes,pelagic,P,assumed to be the same across Mugil spp.
+Mugiliformes,Mugilidae,Mugil,Mugil liza,pelagic,P,assumed to be the same across Mugil spp.
+Mugiliformes,Mugilidae,Mugil,Mugil trichodon,pelagic,P,assumed to be the same across Mugil spp.
+Mugiliformes,Mugilidae,Planiliza,Planiliza subviridis,pelagic,P,all Mugilidae are assumed to be pelagic
+Osmeriformes,Argentinidae,Argentina,Argentina sphyraena,pelagic,P,http://www.fishbase.org/summary/Argentina-sphyraena
+Osmeriformes,Osmeridae,Mallotus,Mallotus villosus,demersal,D,http://www.fishbase.org/summary/Mallotus-villosus
+Perciformes,Acanthuridae,Acanthurus,Acanthurus coeruleus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Acanthuridae,Acanthurus,Acanthurus nigrofuscus,pelagic,P,assumed to be the same as Acanthurus coeruleus
+Perciformes,Acanthuridae,Acanthurus,Acanthurus tractus,pelagic,P,assumed to be the same as Acanthurus coeruleus
+Perciformes,Acanthuridae,Acanthurus,Acanthurus triostegus,pelagic,P,assumed to be the same as Acanthurus coeruleus
+Perciformes,Acanthuridae,Zebrasoma,Zebrasoma scopas,pelagic,P,DR Robertson personal communication
+Perciformes,Acropomatidae,Synagrops,Synagrops trispinosus,pelagic,P,NA
+Perciformes,Ammodytidae,Ammodytes,Ammodytes hexapterus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Ammodytidae,Ammodytes,Ammodytes personatus,demersal,D,assumed to be the same as Ammodytes hexapterus
+Perciformes,Anarhichadidae,Anarrhichthys,Anarrhichthys ocellatus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Apogonidae,Apogon,Apogon maculatus,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Cheilodipterus,Cheilodipterus macrodon,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Cheilodipterus,Cheilodipterus quinquelineatus,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Fibramia,Fibramia lateralis,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Holapogon,Holapogon maximus,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Jaydia,Jaydia hungi,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Ostorhinchus,Ostorhinchus cookii,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Ostorhinchus,Ostorhinchus cyanosoma,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Ostorhinchus,Ostorhinchus doederleini,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Ostorhinchus,Ostorhinchus holotaenia,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Ostorhinchus,Ostorhinchus taeniophorus,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Paroncheilus,Paroncheilus affinis,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Phaeoptyx,Phaeoptyx conklini,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Siphamia,Siphamia tubifer,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Apogonidae,Taeniamia,Taeniamia lineolata,mouth brooder,BM,http://www.fishbase.org/summary/FamilySummary.php?ID=304
+Perciformes,Artedidraconidae,Artedidraco,Artedidraco lonnbergi,demersal,D,http://www.fishbase.org/summary/Artedidraco-lonnbergi
+Perciformes,Artedidraconidae,Artedidraco,Artedidraco mirus,demersal,D,http://www.fishbase.org/summary/Artedidraco-mirus
+Perciformes,Artedidraconidae,Artedidraco,Artedidraco skottsbergi,demersal,D,http://www.fishbase.org/summary/Artedidraco-skottsbergi
+Perciformes,Artedidraconidae,Dolloidraco,Dolloidraco longedorsalis,demersal,D,assumed to be the same as Artedidraco spp.
+Perciformes,Bathydraconidae,Akarotaxis,Akarotaxis nudiceps,demersal,D,http://www.fishbase.org/summary/Akarotaxis-nudiceps
+Perciformes,Bathydraconidae,Gerlachea,Gerlachea australis,demersal,D,http://www.fishbase.org/summary/Gerlachea-australis
+Perciformes,Blenniidae,Aidablennius,Aidablennius sphynx,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Blenniidae,Chasmodes,Chasmodes bosquianus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Blenniidae,Hypleurochilus,Hypleurochilus geminatus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Blenniidae,Hypsoblennius,Hypsoblennius hentz,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Blenniidae,Hypsoblennius,Hypsoblennius jenkinsi,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Blenniidae,Lipophrys,Lipophrys pholis,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Blenniidae,Lipophrys,Lipophrys trigloides,demersal,D,assumed to be the same as Lipophrys pholis
+Perciformes,Blenniidae,Ophioblennius,Ophioblennius atlanticus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Blenniidae,Ophioblennius,Ophioblennius steindachneri,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Blenniidae,Parablennius,Parablennius ruber,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Caesionidae,Caesio,Caesio teres,pelagic,P,http://www.fishbase.org/summary/Caesio-teres
+Perciformes,Caesionidae,Pterocaesio,Pterocaesio digramma,pelagic,P,http://www.fishbase.org/summary/Pterocaesio-digramma
+Perciformes,Callionymidae,Callionymus,Callionymus enneactis,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Callionymidae,Callionymus,Callionymus lyra,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Callionymidae,Callionymus,Callionymus maculatus,pelagic,P,assumed to be the same as Callionymus lyra
+Perciformes,Callionymidae,Repomucenus,Repomucenus beniteguri,pelagic,P,NA
+Perciformes,Callionymidae,Synchiropus,Synchiropus sechellensis,pelagic,P,assumed to be the same as Synchiropus altivelis in Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Caproidae,Capros,Capros aper,pelagic,P,http://www.fishbase.org/summary/Capros-aper
+Perciformes,Carangidae,Decapterus,Decapterus punctatus,pelagic,P,http://www.fishbase.org/summary/Decapterus-punctatus
+Perciformes,Carangidae,Elagatis,Elagatis bipinnulata,pelagic,P,http://www.fishbase.org/summary/Elagatis-bipinnulata
+Perciformes,Carangidae,Oligoplites,Oligoplites saurus,pelagic,P,NA
+Perciformes,Carangidae,Trachurus,Trachurus declivis,pelagic,P,assumed to be the same across Trachurus spp.
+Perciformes,Carangidae,Trachurus,Trachurus mediterraneus,pelagic,P,assumed to be the same across Trachurus spp.
+Perciformes,Carangidae,Trachurus,Trachurus novaezelandiae,pelagic,P,assumed to be the same across Trachurus spp.
+Perciformes,Carangidae,Trachurus,Trachurus picturatus,pelagic,P,assumed to be the same across Trachurus spp.
+Perciformes,Carangidae,Trachurus,Trachurus symmetricus,pelagic,P,assumed to be the same across Trachurus spp.
+Perciformes,Carangidae,Trachurus,Trachurus trachurus,pelagic,P,http://www.fishbase.org/summary/Trachurus-trachurus
+Perciformes,Centropomidae,Centropomus,Centropomus undecimalis,pelagic,P,DR Robertson personal communication
+Perciformes,Chaenopsidae,Acanthemblemaria,Acanthemblemaria hancocki,demersal,D,DR Robertson personal communication
+Perciformes,Chaenopsidae,Acanthemblemaria,Acanthemblemaria rivasi,demersal,D,DR Robertson personal communication
+Perciformes,Chaenopsidae,Neoclinus,Neoclinus uninotatus,demersal,D,DR Robertson personal communication
+Perciformes,Chaetodontidae,Chaetodon,Chaetodon capistratus,pelagic,P,assumed to be the same as Chaetodon nippon
+Perciformes,Chaetodontidae,Chaetodon,Chaetodon nippon,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Chaetodontidae,Prognathodes,Prognathodes aculeatus,pelagic,P,DR Robertson personal communication
+Perciformes,Channichthyidae,Champsocephalus,Champsocephalus gunnari,demersal,D,http://www.fishbase.org/summary/Champsocephalus-gunnari
+Perciformes,Channichthyidae,Channichthys,Channichthys rugosus,demersal,D,http://www.fishbase.org/summary/Channichthys-rugosus
+Perciformes,Channichthyidae,Chionodraco,Chionodraco kathleenae,demersal,D,http://www.fishbase.org/summary/Chionodraco-kathleenae
+Perciformes,Channichthyidae,Pagetopsis,Pagetopsis macropterus,demersal,D,http://www.fishbase.org/summary/Pagetopsis-macropterus
+Perciformes,Cirrhitidae,Cirrhitichthys,Cirrhitichthys aureus,pelagic,P,http://www.fishbase.org/summary/Cirrhitichthys-aureus
+Perciformes,Clinidae,Heterostichus,Heterostichus rostratus,demersal,D,http://www.fishbase.org/summary/Heterostichus-rostratus
+Perciformes,Coryphaenidae,Coryphaena,Coryphaena hippurus,pelagic,P,http://www.fishbase.org/summary/Coryphaena-hippurus
+Perciformes,Ephippidae,Chaetodipterus,Chaetodipterus faber,pelagic,P,assumed to be the same as Chaetodipterus zonatus in Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Ephippidae,Platax,Platax teira,pelagic,P,assumed to be the same as other Ephippidae in Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Gobiidae,Bathygobius,Bathygobius soporator,demersal,D,DR Robertson personal communication
+Perciformes,Gobiidae,Coryphopterus,Coryphopterus dicrus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Gobiidae,Coryphopterus,Coryphopterus glaucofraenum,demersal,D,assumed to be the same as Coryphopterus dicrus
+Perciformes,Gobiidae,Coryphopterus,Coryphopterus personatus,demersal,D,assumed to be the same as Coryphopterus dicrus
+Perciformes,Gobiidae,Ctenogobius,Ctenogobius stigmaticus,demersal,D,assumed to be the same as Ctenogobius boleosoma in http://www.fishbase.org/summary/Ctenogobius-boleosoma
+Perciformes,Gobiidae,Elacatinus,Elacatinus figaro,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Gobiidae,Elacatinus,Elacatinus oceanops,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Gobiidae,Gillichthys,Gillichthys mirabilis,demersal,D,DR Robertson personal communication
+Perciformes,Gobiidae,Gobiosoma,Gobiosoma bosc,demersal,D,http://www.fishbase.org/summary/Gobiosoma-bosc
+Perciformes,Gobiidae,Gobiosoma,Gobiosoma robustum,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Gobiidae,Oligolepis,Oligolepis acutipennis,demersal,D,DR Robertson personal communication
+Perciformes,Gobiidae,Paragobiodon,Paragobiodon echinocephalus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Gobiidae,Paragobiodon,Paragobiodon lacunicolus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Gobiidae,Paragobiodon,Paragobiodon xanthosoma,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Gobiidae,Pomatoschistus,Pomatoschistus microps,demersal,D,http://www.fishbase.org/summary/Pomatoschistus-microps
+Perciformes,Gobiidae,Pomatoschistus,Pomatoschistus minutus,demersal,D,http://www.fishbase.org/summary/Pomatoschistus-minutus
+Perciformes,Gobiidae,Pomatoschistus,Pomatoschistus pictus,demersal,D,http://www.fishbase.org/summary/Pomatoschistus-pictus
+Perciformes,Gobiidae,Priolepis,Priolepis nocturna,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Gobiidae,Rhinogobiops,Rhinogobiops nicholsii,demersal,D,http://www.fishbase.org/summary/Rhinogobiops-nicholsii
+Perciformes,Gobiidae,Typhlogobius,Typhlogobius californiensis,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Haemulidae,Haemulon,Haemulon flavolineatum,pelagic,P,assumed to be the same as Haemulon plumierii
+Perciformes,Haemulidae,Haemulon,Haemulon plumierii,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Haemulidae,Haemulopsis,Haemulopsis corvinaeformis,pelagic,P,http://www.fishbase.org/summary/FamilySummary.php?ID=327
+Perciformes,Haemulidae,Orthopristis,Orthopristis chrysoptera,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Hapalogenyidae,Hapalogenys,Hapalogenys nigripinnis,pelagic,P,NA
+Perciformes,Harpagiferidae,Harpagifer,Harpagifer bispinis,demersal,D,NA
+Perciformes,Istiophoridae,Makaira,Makaira nigricans,pelagic,P,http://www.fishbase.org/summary/Makaira-nigricans
+Perciformes,Kyphosidae,Girella,Girella punctata,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Anampses,Anampses caeruleopunctatus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Anampses,Anampses twistii,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Bodianus,Bodianus axillaris,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Bodianus,Bodianus diplotaenia,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Bodianus,Bodianus rufus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Cheilinus,Cheilinus fasciatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Cheilinus,Cheilinus oxycephalus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Cheilinus,Cheilinus trilobatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Cheilinus,Cheilinus undulatus,pelagic,P,assumed to be the same across all Cheilinus spp.
+Perciformes,Labridae,Clepticus,Clepticus parrae,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Coris,Coris gaimard,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Coris,Coris julis,pelagic,P,assumed to be the same across Coris spp.
+Perciformes,Labridae,Coris,Coris variegata,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Ctenolabrus,Ctenolabrus rupestris,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Doratonotus,Doratonotus megalepis,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Epibulus,Epibulus insidiator,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Gomphosus,Gomphosus varius,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres biocellatus,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Halichoeres,Halichoeres bivittatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres chierchiae,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres chloropterus,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Halichoeres,Halichoeres dispilus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres garnoti,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres hortulanus,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Halichoeres,Halichoeres maculipinna,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres margaritaceus,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Halichoeres,Halichoeres marginatus,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Halichoeres,Halichoeres melanurus,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Halichoeres,Halichoeres miniatus,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Halichoeres,Halichoeres nebulosus,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Halichoeres,Halichoeres nicholsi,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres notospilus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres pictus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres poeyi,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Halichoeres,Halichoeres tenuispinis,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Halichoeres,Halichoeres trimaculatus,pelagic,P,assumed to be same across Halichoeres spp.
+Perciformes,Labridae,Hemigymnus,Hemigymnus fasciatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Hemigymnus,Hemigymnus melapterus,pelagic,P,assumed to be the same as Hemigymnus fasciatus
+Perciformes,Labridae,Labrichthys,Labrichthys unilineatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Labroides,Labroides dimidiatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Labropsis,Labropsis micronesica,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Labropsis,Labropsis xanthonota,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Lachnolaimus,Lachnolaimus maximus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Macropharyngodon,Macropharyngodon meleagris,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Novaculichthys,Novaculichthys taeniourus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Oxycheilinus,Oxycheilinus unifasciatus,pelagic,P,assumed to be the same across all Cheilinus spp.
+Perciformes,Labridae,Oxyjulis,Oxyjulis californica,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Parajulis,Parajulis poecilepterus,pelagic,P,http://www.iucnredlist.org/details/187387/0
+Perciformes,Labridae,Pseudocheilinus,Pseudocheilinus hexataenia,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Pseudolabrus,Pseudolabrus japonicus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Pteragogus,Pteragogus flagellifer,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Stethojulis,Stethojulis bandanensis,pelagic,P,DR Robertson personal communication
+Perciformes,Labridae,Symphodus,Symphodus mediterraneus,demersal,D,assumed to be the same as Symphodus roissali
+Perciformes,Labridae,Symphodus,Symphodus roissali,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Symphodus,Symphodus rostratus,demersal,D,assumed to be the same as Symphodus roissali
+Perciformes,Labridae,Symphodus,Symphodus tinca,demersal,D,assumed to be the same as Symphodus roissali
+Perciformes,Labridae,Tautoga,Tautoga onitis,pelagic,P,http://www.fishbase.org/summary/Tautoga-onitis
+Perciformes,Labridae,Tautogolabrus,Tautogolabrus adspersus,pelagic,P,http://www.fishbase.org/summary/Tautogolabrus-adspersus
+Perciformes,Labridae,Thalassoma,Thalassoma bifasciatum,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Thalassoma,Thalassoma cupido,pelagic,P,assumed to be the same as Thalassoma bifasciatum
+Perciformes,Labridae,Thalassoma,Thalassoma hardwicke,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Thalassoma,Thalassoma jansenii,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Thalassoma,Thalassoma lucasanum,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Labridae,Thalassoma,Thalassoma lunare,pelagic,P,assumed to be the same as Thalassoma bifasciatum
+Perciformes,Latidae,Lates,Lates calcarifer,pelagic,P,http://www.fishbase.org/summary/Lates-calcarifer
+Perciformes,Lutjanidae,Lutjanus,Lutjanus campechanus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Lutjanidae,Lutjanus,Lutjanus carponotatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Lutjanidae,Lutjanus,Lutjanus synagris,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Lutjanidae,Ocyurus,Ocyurus chrysurus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Lutjanidae,Rhomboplites,Rhomboplites aurorubens,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Malacanthidae,Caulolatilus,Caulolatilus microps,pelagic,P,assumed to be the same as Malacanthus spp.
+Perciformes,Malacanthidae,Malacanthus,Malacanthus plumieri,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Moronidae,Dicentrarchus,Dicentrarchus labrax,pelagic,P,http://www.fishbase.org/summary/Dicentrarchus-labrax
+Perciformes,Moronidae,Morone,Morone saxatilis,pelagic,P,http://www.fishbase.org/summary/Morone-saxatilis
+Perciformes,Mullidae,Parupeneus,Parupeneus multifasciatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Nemipteridae,Scolopsis,Scolopsis bilineata,pelagic,P,NA
+Perciformes,Nototheniidae,Lepidonotothen,Lepidonotothen larseni,demersal,D,http://www.fishbase.org/summary/Lepidonotothen-larseni
+Perciformes,Nototheniidae,Lepidonotothen,Lepidonotothen mizops,demersal,D,http://www.fishbase.org/summary/Lepidonotothen-mizops
+Perciformes,Nototheniidae,Lepidonotothen,Lepidonotothen nudifrons,demersal,D,http://www.fishbase.org/summary/Lepidonotothen-nudifrons
+Perciformes,Nototheniidae,Notothenia,Notothenia coriiceps,demersal,D,assumed to be the same Notothenia rossii
+Perciformes,Nototheniidae,Notothenia,Notothenia rossii,demersal,D,http://www.fishbase.org/summary/Notothenia-rossii
+Perciformes,Nototheniidae,Notothenia,Notothenia sp.,demersal,D,assumed to be the same Notothenia rossii
+Perciformes,Nototheniidae,Patagonotothen,Patagonotothen longipes,demersal,D,assumed to be the same as Lepidonotothen spp.
+Perciformes,Nototheniidae,Patagonotothen,Patagonotothen sima,demersal,D,assumed to be the same as Lepidonotothen spp.
+Perciformes,Nototheniidae,Patagonotothen,Patagonotothen sp.,demersal,D,assumed to be the same as Lepidonotothen spp.
+Perciformes,Nototheniidae,Patagonotothen,Patagonotothen tessellata,demersal,D,assumed to be the same as Lepidonotothen spp.
+Perciformes,Nototheniidae,Pseudotrematomus,Pseudotrematomus bernacchii,demersal,D,http://www.fishbase.org/summary/Pseudotrematomus-bernacchii
+Perciformes,Nototheniidae,Pseudotrematomus,Pseudotrematomus hansoni,demersal,D,http://www.fishbase.org/summary/Pseudotrematomus-hansoni
+Perciformes,Nototheniidae,Pseudotrematomus,Pseudotrematomus loennbergii,demersal,D,http://www.fishbase.org/summary/Pseudotrematomus-loennbergii
+Perciformes,Pinguipedidae,Parapercis,Parapercis snyderi,pelagic,P,NA
+Perciformes,Plesiopidae,Acanthoclinus,Acanthoclinus fuscus,demersal,D,http://www.fishbase.org/summary/12865
+Perciformes,Polynemidae,Eleutheronema,Eleutheronema tetradactylum,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Polynemidae,Polydactylus,Polydactylus sexfilis,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacanthidae,Holacanthus,Holacanthus tricolor,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacanthidae,Pomacanthus,Pomacanthus zonipectus,pelagic,P,assumed to be the same as Pomacanthus paru in Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacentridae,Abudefduf,Abudefduf bengalensis,demersal,D,assumed to be the same as Abudefduf saxatilis
+Perciformes,Pomacentridae,Abudefduf,Abudefduf saxatilis,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacentridae,Abudefduf,Abudefduf septemfasciatus,demersal,D,assumed to be the same as Abudefduf saxatilis
+Perciformes,Pomacentridae,Abudefduf,Abudefduf sordidus,demersal,D,assumed to be the same as Abudefduf saxatilis
+Perciformes,Pomacentridae,Abudefduf,Abudefduf troschelii,demersal,D,assumed to be the same as Abudefduf saxatilis
+Perciformes,Pomacentridae,Abudefduf,Abudefduf vaigiensis,demersal,D,assumed to be the same as Abudefduf saxatilis
+Perciformes,Pomacentridae,Acanthochromis,Acanthochromis polyacanthus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacentridae,Amphiprion,Amphiprion melanopus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacentridae,Chromis,Chromis atrilobata,demersal,D,assumed to be the same across all Chromis spp.
+Perciformes,Pomacentridae,Chromis,Chromis atripectoralis,demersal,D,assumed to be the same across all Chromis spp.
+Perciformes,Pomacentridae,Chromis,Chromis multilineata,demersal,D,DRB field observations
+Perciformes,Pomacentridae,Hypsypops,Hypsypops rubicundus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacentridae,Microspathodon,Microspathodon bairdii,demersal,D,assumed to be the same across Microspathodon spp.
+Perciformes,Pomacentridae,Microspathodon,Microspathodon chrysurus,demersal,D,DRB field observations
+Perciformes,Pomacentridae,Microspathodon,Microspathodon dorsalis,demersal,D,assumed to be the same across Microspathodon spp.
+Perciformes,Pomacentridae,Pomacentrus,Pomacentrus amboinensis,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacentridae,Pomacentrus,Pomacentrus coelestis,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacentridae,Stegastes,Stegastes acapulcoensis,demersal,D,assumed to be the same as Stegastes leucostictus
+Perciformes,Pomacentridae,Stegastes,Stegastes adustus,demersal,D,assumed to be the same as Stegastes leucostictus
+Perciformes,Pomacentridae,Stegastes,Stegastes beebei,demersal,D,assumed to be the same as Stegastes leucostictus
+Perciformes,Pomacentridae,Stegastes,Stegastes diencaeus,demersal,D,assumed to be the same as Stegastes leucostictus
+Perciformes,Pomacentridae,Stegastes,Stegastes flavilatus,demersal,D,assumed to be the same as Stegastes leucostictus
+Perciformes,Pomacentridae,Stegastes,Stegastes fuscus,demersal,D,assumed to be the same as Stegastes leucostictus
+Perciformes,Pomacentridae,Stegastes,Stegastes leucostictus,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Pomacentridae,Stegastes,Stegastes partitus,demersal,D,assumed to be the same as Stegastes leucostictus
+Perciformes,Pomacentridae,Stegastes,Stegastes planifrons,demersal,D,assumed to be the same as Stegastes leucostictus
+Perciformes,Pomacentridae,Stegastes,Stegastes variabilis,demersal,D,assumed to be the same as Stegastes leucostictus
+Perciformes,Rachycentridae,Rachycentron,Rachycentron canadum,pelagic,P,http://www.fishbase.org/summary/Rachycentron-canadum
+Perciformes,Scaridae,Cetoscarus,Cetoscarus bicolor,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Chlorurus,Chlorurus sordidus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Cryptotomus,Cryptotomus roseus,pelagic,P,DR Robertson personal communication
+Perciformes,Scaridae,Hipposcarus,Hipposcarus longiceps,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Scarus,Scarus flavipectoralis,pelagic,P,assumed to be the same across Scarus spp.
+Perciformes,Scaridae,Scarus,Scarus forsteni,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Scarus,Scarus frenatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Scarus,Scarus globiceps,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Scarus,Scarus iseri,pelagic,P,assumed to be the same across Scarus spp.
+Perciformes,Scaridae,Scarus,Scarus niger,pelagic,P,assumed to be the same across Scarus spp.
+Perciformes,Scaridae,Scarus,Scarus psittacus,pelagic,P,assumed to be the same across Scarus spp.
+Perciformes,Scaridae,Scarus,Scarus schlegeli,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Scarus,Scarus spinus,pelagic,P,assumed to be the same across Scarus spp.
+Perciformes,Scaridae,Sparisoma,Sparisoma atomarium,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Sparisoma,Sparisoma aurofrenatum,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Sparisoma,Sparisoma cretense,pelagic,P,assumed to be the same across Sparisoma spp.
+Perciformes,Scaridae,Sparisoma,Sparisoma radians,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Scaridae,Sparisoma,Sparisoma rubripinne,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Bairdiella,Bairdiella chrysoura,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Cynoscion,Cynoscion regalis,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Cynoscion,Cynoscion striatus,pelagic,P,assumed to be the same as Cynoscion regalis
+Perciformes,Sciaenidae,Genyonemus,Genyonemus lineatus,pelagic,P,all Sciaenidae assumed to be pelagic
+Perciformes,Sciaenidae,Isopisthus,Isopisthus parvipinnis,pelagic,P,all Sciaenidae assumed to be pelagic
+Perciformes,Sciaenidae,Larimus,Larimus breviceps,pelagic,P,assumed to be the same as Larimus fasciatus in Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Larimus,Larimus fasciatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Leiostomus,Leiostomus xanthurus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Macrodon,Macrodon ancylodon,pelagic,P,all Sciaenidae assumed to be pelagic
+Perciformes,Sciaenidae,Menticirrhus,Menticirrhus saxatilis,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Micropogonias,Micropogonias furnieri,pelagic,P,assumed to be the same as Micropogonias undulatus
+Perciformes,Sciaenidae,Micropogonias,Micropogonias undulatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Miichthys,Miichthys miiuy,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Paralonchurus,Paralonchurus brasiliensis,pelagic,P,all Sciaenidae assumed to be pelagic
+Perciformes,Sciaenidae,Pogonias,Pogonias cromis,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Seriphus,Seriphus politus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sciaenidae,Stellifer,Stellifer rastrifer,pelagic,P,all Sciaenidae assumed to be pelagic
+Perciformes,Scombridae,Auxis,Auxis rochei,pelagic,P,http://www.fishbase.org/summary/Auxis-rochei
+Perciformes,Scombridae,Auxis,Auxis sp.,pelagic,P,http://www.fishbase.org/summary/FamilySummary.php?ID=416
+Perciformes,Scombridae,Euthynnus,Euthynnus affinis,pelagic,P,http://www.fishbase.org/summary/FamilySummary.php?ID=416
+Perciformes,Scombridae,Euthynnus,Euthynnus alletteratus,pelagic,P,http://www.fishbase.org/summary/Euthynnus-alletteratus
+Perciformes,Scombridae,Katsuwonus,Katsuwonus pelamis,pelagic,P,http://www.fishbase.org/summary/Katsuwonus-pelamis
+Perciformes,Scombridae,Sarda,Sarda chiliensis,pelagic,P,http://www.fishbase.org/summary/Sarda-chilensis
+Perciformes,Scombridae,Sarda,Sarda sarda,pelagic,P,http://www.fishbase.org/summary/Sarda-sarda
+Perciformes,Scombridae,Scomber,Scomber australasicus,pelagic,P,http://www.fishbase.org/summary/FamilySummary.php?ID=416
+Perciformes,Scombridae,Scomber,Scomber japonicus,pelagic,P,http://www.fishbase.org/summary/Scomber-japonicus
+Perciformes,Scombridae,Scomber,Scomber scombrus,pelagic,P,http://www.fishbase.org/summary/Scomber-scombrus
+Perciformes,Scombridae,Scomberomorus,Scomberomorus cavalla,pelagic,P,http://www.fishbase.org/summary/FamilySummary.php?ID=416
+Perciformes,Scombridae,Scomberomorus,Scomberomorus maculatus,pelagic,P,http://www.fishbase.org/summary/FamilySummary.php?ID=416
+Perciformes,Scombridae,Scomberomorus,Scomberomorus regalis,pelagic,P,http://www.fishbase.org/summary/FamilySummary.php?ID=416
+Perciformes,Scombridae,Thunnus,Thunnus alalunga,pelagic,P,http://www.fishbase.org/summary/Thunnus-alalunga
+Perciformes,Scombridae,Thunnus,Thunnus albacares,pelagic,P,http://www.fishbase.org/summary/Thunnus-albacares
+Perciformes,Scombridae,Thunnus,Thunnus obesus,pelagic,P,http://www.fishbase.org/summary/Thunnus-obesus
+Perciformes,Scombridae,Thunnus,Thunnus thynnus,pelagic,P,http://www.fishbase.org/summary/Thunnus-thynnus
+Perciformes,Serranidae,Cephalopholis,Cephalopholis cruentata,pelagic,P,DR Robertson personal communication
+Perciformes,Serranidae,Epinephelus,Epinephelus aeneus,pelagic,P,assumed to be the same across Epinephelus spp.
+Perciformes,Serranidae,Epinephelus,Epinephelus akaara,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Serranidae,Epinephelus,Epinephelus fasciatus,pelagic,P,assumed to be the same across Epinephelus spp.
+Perciformes,Serranidae,Epinephelus,Epinephelus guttatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Serranidae,Epinephelus,Epinephelus lanceolatus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Serranidae,Epinephelus,Epinephelus marginatus,pelagic,P,assumed to be the same across Epinephelus spp.
+Perciformes,Serranidae,Epinephelus,Epinephelus tauvina,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Serranidae,Mycteroperca,Mycteroperca tigris,pelagic,P,assumed to be the same as Mycteroperca phenax in Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Serranidae,Serranus,Serranus baldwini,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Serranidae,Serranus,Serranus psittacinus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Serranidae,Serranus,Serranus tabacarius,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Serranidae,Serranus,Serranus tigrinus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Serranidae,Serranus,Serranus tortugarum,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Siganidae,Siganus,Siganus canaliculatus,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Siganidae,Siganus,Siganus fuscescens,scatterer,S,assumed to be the same across Siganus spp.
+Perciformes,Siganidae,Siganus,Siganus guttatus,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Siganidae,Siganus,Siganus rivulatus,scatterer,S,assumed to be the same across Siganus spp.
+Perciformes,Sparidae,Acanthopagrus,Acanthopagrus latus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sparidae,Archosargus,Archosargus probatocephalus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sparidae,Archosargus,Archosargus rhomboidalis,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sparidae,Sparidentex,Sparidentex hasta,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sparidae,Stenotomus,Stenotomus chrysops,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Perciformes,Sphyraenidae,Sphyraena,Sphyraena argentea,pelagic,P,DR Robertson personal communication
+Perciformes,Stromateidae,Pampus,Pampus chinensis,pelagic,P,NA
+Perciformes,Stromateidae,Peprilus,Peprilus triacanthus,pelagic,P,http://www.fishbase.org/summary/Peprilus-triacanthus
+Perciformes,Trichiuridae,Aphanopus,Aphanopus carbo,pelagic,P,http://www.fishbase.org/summary/Aphanopus-carbo
+Perciformes,Trichiuridae,Trichiurus,Trichiurus lepturus,pelagic,P,http://www.fishbase.org/summary/Trichiurus-lepturus
+Perciformes,Trichodontidae,Arctoscopus,Arctoscopus japonicus,demersal,D,http://www.fishbase.org/summary/Arctoscopus-japonicus
+Perciformes,Trichodontidae,Trichodon,Trichodon trichodon,demersal,D,http://www.fishbase.org/summary/Trichodon-trichodon
+Perciformes,Tripterygiidae,Enneapterygius,Enneapterygius etheostomus,demersal,D,http://www.fishbase.org/summary/Enneapterygius-etheostoma
+Perciformes,Tripterygiidae,Forsterygion,Forsterygion capito,demersal,D,http://www.fishbase.org/summary/Forsterygion-capito
+Perciformes,Tripterygiidae,Forsterygion,Forsterygion varium,demersal,D,http://www.fishbase.org/summary/Forsterygion-varium
+Perciformes,Tripterygiidae,Gilloblennius,Gilloblennius tripennis,demersal,D,http://www.fishbase.org/summary/Gilloblennius-tripennis
+Perciformes,Tripterygiidae,Ruanoho,Ruanoho decemdigitatus,demersal,D,http://www.fishbase.org/summary/Ruanoho-decemdigitatus
+Perciformes,Uranoscopidae,Genyagnus,Genyagnus monopterygius,pelagic,P,NA
+Perciformes,Zoarcidae,Gymnelus,Gymnelus viridis,demersal,D,NA
+Perciformes,Zoarcidae,Lycodes,Lycodes esmarkii,demersal,D,http://www.fishbase.org/summary/Lycodes-esmarkii
+Perciformes,Zoarcidae,Lycodes,Lycodes eudipleurostictus,demersal,D,assumed to be the same across Lycodes spp.
+Perciformes,Zoarcidae,Lycodes,Lycodes frigidus,demersal,D,assumed to be the same across Lycodes spp.
+Perciformes,Zoarcidae,Lycodes,Lycodes pallidus,demersal,D,assumed to be the same across Lycodes spp.
+Perciformes,Zoarcidae,Lycodes,Lycodes polaris,demersal,D,assumed to be the same across Lycodes spp.
+Perciformes,Zoarcidae,Lycodes,Lycodes reticulatus,demersal,D,assumed to be the same across Lycodes spp.
+Perciformes,Zoarcidae,Lycodes,Lycodes vahlii,demersal,D,assumed to be the same across Lycodes spp.
+Perciformes,Zoarcidae,Melanostigma,Melanostigma atlanticum,demersal,D,NA
+Perciformes,Zoarcidae,Pachycara,Pachycara brachycephalum,demersal,D,NA
+Perciformes,Zoarcidae,Zoarces,Zoarces americanus,demersal,D,NA
+Pleuronectiformes,Achiridae,Trinectes,Trinectes maculatus,pelagic,P,http://www.fishbase.org/summary/Trinectes-maculatus
+Pleuronectiformes,Bothidae,Arnoglossus,Arnoglossus laterna,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Pleuronectiformes,Bothidae,Lophonectes,Lophonectes gallus,pelagic,P,NA
+Pleuronectiformes,Paralichthyidae,Paralichthys,Paralichthys dentatus,pelagic,P,http://www.fishbase.org/summary/Paralichthys-dentatus
+Pleuronectiformes,Paralichthyidae,Paralichthys,Paralichthys patagonicus,pelagic,P,http://www.fishbase.org/summary/Paralichthys-patagonicus
+Pleuronectiformes,Pleuronectidae,Ammotretis,Ammotretis rostratus,pelagic,P,http://www.fishbase.org/summary/Ammotretis-rostratus
+Pleuronectiformes,Pleuronectidae,Eopsetta,Eopsetta jordani,pelagic,P,NA
+Pleuronectiformes,Pleuronectidae,Glyptocephalus,Glyptocephalus cynoglossus,pelagic,P,http://www.fishbase.org/summary/Glyptocephalus-cynoglossus
+Pleuronectiformes,Pleuronectidae,Hippoglossoides,Hippoglossoides platessoides,pelagic,P,http://www.fishbase.org/summary/Hippoglossoides-platessoides
+Pleuronectiformes,Pleuronectidae,Hippoglossus,Hippoglossus hippoglossus,pelagic,P,http://www.fishbase.org/summary/Hippoglossus-hippoglossus
+Pleuronectiformes,Pleuronectidae,Limanda,Limanda limanda,pelagic,P,http://www.fishbase.org/summary/Limanda-limanda
+Pleuronectiformes,Pleuronectidae,Liopsetta,Liopsetta putnami,pelagic,P,NA
+Pleuronectiformes,Pleuronectidae,Microstomus,Microstomus kitt,pelagic,P,http://www.fishbase.org/summary/Microstomus-kitt
+Pleuronectiformes,Pleuronectidae,Parophrys,Parophrys vetulus,pelagic,P,NA
+Pleuronectiformes,Pleuronectidae,Pleuronectes,Pleuronectes platessa,pelagic,P,http://www.fishbase.org/summary/Pleuronectes-platessa
+Pleuronectiformes,Pleuronectidae,Pleuronichthys,Pleuronichthys coenosus,pelagic,P,http://www.fishbase.org/summary/Pleuronichthys-coenosus
+Pleuronectiformes,Pleuronectidae,Pleuronichthys,Pleuronichthys decurrens,pelagic,P,http://www.fishbase.org/summary/Pleuronichthys-decurrens
+Pleuronectiformes,Pleuronectidae,Pleuronichthys,Pleuronichthys verticalis,pelagic,P,http://www.fishbase.org/summary/Pleuronichthys-verticalis
+Pleuronectiformes,Pleuronectidae,Pseudopleuronectes,Pseudopleuronectes americanus,demersal,D,http://www.fishbase.org/summary/Pseudopleuronectes-americanus
+Pleuronectiformes,Pleuronectidae,Reinhardtius,Reinhardtius hippoglossoides,pelagic,P,http://www.fishbase.org/summary/Reinhardtius-hippoglossoides
+Pleuronectiformes,Pleuronectidae,Rhombosolea,Rhombosolea tapirina,pelagic,P,assume to be the same as Pleuronectes platessa
+Pleuronectiformes,Scophthalmidae,Phrynorhombus,Phrynorhombus norvegicus,pelagic,P,assumed to be the same as Scophthalmus maximus
+Pleuronectiformes,Scophthalmidae,Scophthalmus,Scophthalmus aquosus,pelagic,P,http://www.fishbase.org/summary/Scophthalmus-aquosus
+Pleuronectiformes,Scophthalmidae,Scophthalmus,Scophthalmus maximus,pelagic,P,http://www.fishbase.org/summary/Scophthalmus-maximus
+Pleuronectiformes,Scophthalmidae,Zeugopterus,Zeugopterus punctatus,pelagic,P,http://www.fishbase.org/summary/Zeugopterus-punctatus
+Pleuronectiformes,Soleidae,Buglossidium,Buglossidium luteum,pelagic,P,http://www.fishbase.org/summary/Buglossidium-luteum
+Pleuronectiformes,Soleidae,Microchirus,Microchirus variegatus,pelagic,P,http://www.fishbase.org/summary/Microchirus-variegatus
+Pleuronectiformes,Soleidae,Solea,Solea solea,pelagic,P,http://www.fishbase.org/summary/Solea-solea
+Scorpaeniformes,Agonidae,Leptagonus,Leptagonus decagonus,demersal,D,http://species-identification.org/species.php?species_group=fnam&id=2149
+Scorpaeniformes,Agonidae,Podothecus,Podothecus sachi,demersal,D,http://www.fishbase.org/summary/Podothecus-sachi
+Scorpaeniformes,Congiopodidae,Zanclorhynchus,Zanclorhynchus spinifer,pelagic,P,NA
+Scorpaeniformes,Cottidae,Alcichthys,Alcichthys elongatus,demersal,D,http://www.fishbase.org/summary/Alcichthys-alcicornis
+Scorpaeniformes,Cottidae,Artediellus,Artediellus atlanticus,demersal,D,NA
+Scorpaeniformes,Cottidae,Artedius,Artedius lateralis,demersal,D,NA
+Scorpaeniformes,Cottidae,Clinocottus,Clinocottus analis,demersal,D,NA
+Scorpaeniformes,Cottidae,Enophrys,Enophrys bison,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Scorpaeniformes,Cottidae,Gymnocanthus,Gymnocanthus tricuspis,demersal,D,NA
+Scorpaeniformes,Cottidae,Icelinus,Icelinus quadriseriatus,demersal,D,NA
+Scorpaeniformes,Cottidae,Icelus,Icelus bicornis,demersal,D,NA
+Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus octodecemspinosus,demersal,D,http://www.fishbase.org/summary/Myoxocephalus-octodecemspinosus
+Scorpaeniformes,Cottidae,Oligocottus,Oligocottus maculosus,demersal,D,NA
+Scorpaeniformes,Cottidae,Orthonopias,Orthonopias triacis,demersal,D,NA
+Scorpaeniformes,Cottidae,Scorpaenichthys,Scorpaenichthys marmoratus,pelagic,P,NA
+Scorpaeniformes,Cottidae,Triglops,Triglops pingelii,demersal,D,NA
+Scorpaeniformes,Cyclopteridae,Aptocyclus,Aptocyclus ventricosus,demersal,D,NA
+Scorpaeniformes,Cyclopteridae,Cyclopteropsis,Cyclopteropsis mcalpini,demersal,D,NA
+Scorpaeniformes,Cyclopteridae,Eumicrotremus,Eumicrotremus spinosus,demersal,D,NA
+Scorpaeniformes,Hemitripteridae,Blepsias,Blepsias cirrhosus,demersal,D,http://www.fishbase.org/summary/Blepsias-cirrhosus
+Scorpaeniformes,Hemitripteridae,Hemitripterus,Hemitripterus americanus,demersal,D,http://www.fishbase.org/summary/Hemitripterus-americanus
+Scorpaeniformes,Hemitripteridae,Hemitripterus,Hemitripterus villosus,demersal,D,http://www.fishbase.org/summary/Hemitripterus-villosus
+Scorpaeniformes,Hexagrammidae,Oxylebius,Oxylebius pictus,demersal,D,NA
+Scorpaeniformes,Liparidae,Careproctus,Careproctus reinhardti,demersal,D,NA
+Scorpaeniformes,Liparidae,Liparis,Liparis fabricii,demersal,D,NA
+Scorpaeniformes,Liparidae,Paraliparis,Paraliparis bathybius,mouth brooder,BM,NA
+Scorpaeniformes,Liparidae,Paraliparis,Paraliparis gracilis,demersal,D,NA
+Scorpaeniformes,Scorpaenidae,Scorpaena,Scorpaena guttata,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes alutus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes atrovirens,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes auriculatus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes brevispinis,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes carnatus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes caurinus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes chlorostictus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes constellatus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes crameri,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes dallii,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes diploproa,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes elongatus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes entomelas,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes flavidus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes goodei,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes helvomaculatus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes hopkinsi,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes jordani,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes levis,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes melanops,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes melanostomus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes mentella,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes miniatus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes mystinus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes norvegicus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes ovalis,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes paucispinis,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes pinniger,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes rastrelliger,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes rosaceus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes rosenblatti,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes rufus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes saxicola,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes semicinctus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes serranoides,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastes,Sebastes viviparus,internal brooding,BI,Wourms J. P. 1991 Environ Biol Fish 30 111–126
+Scorpaeniformes,Sebastidae,Sebastolobus,Sebastolobus altivelis,pelagic,P,http://www.fishbase.org/summary/Sebastolobus-altivelis
+Scorpaeniformes,Triglidae,Eutrigla,Eutrigla gurnardus,pelagic,P,http://www.fishbase.org/summary/Eutrigla-gurnardus
+Scorpaeniformes,Triglidae,Prionotus,Prionotus carolinus,pelagic,P,http://www.fishbase.org/summary/Prionotus-carolinus
+Scorpaeniformes,Triglidae,Prionotus,Prionotus evolans,pelagic,P,http://www.fishbase.org/summary/Prionotus-evolans
+Syngnathiformes,Syngnathidae,Entelurus,Entelurus aequoreus,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Hippocampus,Hippocampus fuscus,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Hippocampus,Hippocampus guttulatus,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Hippocampus,Hippocampus hippocampus,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Hippocampus,Hippocampus kuda,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Hippocampus,Hippocampus reidi,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Hippocampus,Hippocampus trimaculatus,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Micrognathus,Micrognathus crinitus,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Nerophis,Nerophis exilis,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Nerophis,Nerophis lumbriciformis,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Nerophis,Nerophis maculatus,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Nerophis,Nerophis ophidion,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus abaster,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus acus,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus floridae,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus louisianae,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus phlegon,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus rostellatus,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus scovelli,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus typhle,pouch brooder,BP,http://www.fishbase.org/summary/FamilySummary.php?ID=258
+Tetraodontiformes,Balistidae,Balistapus,Balistapus undulatus,scatterer,S,assumed to be the same as all Balistidae
+Tetraodontiformes,Balistidae,Balistes,Balistes capriscus,scatterer,S,assumed to be the same for all Balistidae
+Tetraodontiformes,Balistidae,Pseudobalistes,Pseudobalistes flavimarginatus,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Balistidae,Rhinecanthus,Rhinecanthus aculeatus,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Balistidae,Xanthichthys,Xanthichthys mento,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Diodontidae,Diodon,Diodon holocanthus,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Diodontidae,Diodon,Diodon hystrix,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Molidae,Ranzania,Ranzania laevis,pelagic,P,NA
+Tetraodontiformes,Monacanthidae,Brachaluteres,Brachaluteres jacksonianus,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Monacanthidae,Brachaluteres,Brachaluteres ulvarum,scatterer,S,assumed to be the same across Brachaluteres spp.
+Tetraodontiformes,Monacanthidae,Eubalichthys,Eubalichthys bucephalus,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Monacanthidae,Meuschenia,Meuschenia scaber,scatterer,S,assumed to be the same for all Monacanthidae
+Tetraodontiformes,Monacanthidae,Oxymonacanthus,Oxymonacanthus longirostris,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Monacanthidae,Paramonacanthus,Paramonacanthus japonicus,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Monacanthidae,Rudarius,Rudarius ercodes,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Ostraciidae,Acanthostracion,Acanthostracion polygonius,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Ostraciidae,Lactoria,Lactoria diaphana,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Ostraciidae,Lactoria,Lactoria fornasini,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Ostraciidae,Ostracion,Ostracion meleagris,pelagic,P,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Tetraodontidae,Canthigaster,Canthigaster rostrata,demersal,D,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1
+Tetraodontiformes,Tetraodontidae,Canthigaster,Canthigaster valentini,scatterer,S,Kasimatis & Riginos 2016 doi 10.1007/s00338-015-1380-1

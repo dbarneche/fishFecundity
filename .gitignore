@@ -1,0 +1,15 @@
+# folders
+.remake/
+output/
+
+# junk files
+*.Rhistory
+*.Rdata
+*.Rapp.history
+*.DS_Store
+
+# other files
+*.rda
+*.rds
+*~$*
+build.R

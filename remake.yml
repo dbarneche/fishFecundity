@@ -1,0 +1,223 @@
+packages:
+  - plyr
+  - rotl
+  - ape
+  - rfishbase
+  - brms
+  - LoLinR
+  - HDInterval
+  - Hmisc
+  - png
+  - tools
+
+sources:
+  - R/analyses.R
+  - R/figures.R
+  - R/tables.R
+
+targets:
+  all:
+    depends:
+      - output/figures/fig1.png
+      - output/figures/fig2.png
+      - output/figures/fig3.png
+      - output/figures/figS1.png
+      - tableS3
+      - tableS4
+      - tableS5
+      - tableS6
+      - tableS7
+      - tableS8
+
+  # Data ----------------------------------------------------
+  # Length-weight table:
+  # http://www.fishbase.de/Topic/List.php?group=12
+  # downloaded on 15/07/2017
+  # Please see the stashed file R/fishBaseDownload.R
+  # to access the original code used to scrape the data from FishBase
+  lwData:
+    command: readFile('data/fishBaseData/lwData.csv')
+
+  lwMissing:
+    command: readFile('data/fishBaseData/lwMissingData.csv')
+
+  fecFemSizeData:
+    command: readAndAddMass('data/fecundityFemaleSize.csv', lwData = lwData, lwMissing = lwMissing)
+
+  volFemSizeData:
+    command: readAndAddMass('data/eggSizeFemaleSize.csv', addLnVolume = TRUE, lwData = lwData, lwMissing = lwMissing)
+
+  eggEnergyCompleteRaw:
+    command: readFile('data/eggEnergyComplete.csv')
+
+  engVolData:
+    command: cleanAndBindEnergyAndWeightData('data/eggEnergyComplete.csv', 'data/eggDryWeight.csv')
+
+  fecFemSizeVolDataNoTotalVolume:
+    command: readAndAddMass('data/fecundityEggSizeFemaleSize.csv', addLnVolume = TRUE, lwData = lwData, lwMissing = lwMissing)
+
+  fecFemSizeVolData:
+    command: addTotalEggVolume(fecFemSizeVolDataNoTotalVolume)
+
+  # phylogenetic Actinopterygii tree
+  # downloaded on 01 / Dec / 2017
+  tree:
+    command: downloadAndProcessTree()
+
+  otlSubs:
+    command: readFile('data/otlSppSubstitutions.csv')
+
+  fecFemSizePhyData:
+    command: cleanAndExtractPhyloTreeAndMatchedData(fecFemSizeData, tree, otlSubs)
+  
+  volFemSizePhyData:
+    command: cleanAndExtractPhyloTreeAndMatchedData(volFemSizeData, tree, otlSubs)
+
+  engVolPhyData:
+    command: cleanAndExtractPhyloTreeAndMatchedData(engVolData, tree, otlSubs)
+
+  fecFemSizeVolPhyData:
+    command: cleanAndExtractPhyloTreeAndMatchedData(fecFemSizeVolData, tree, otlSubs)
+
+  # Ideal data ----------------------------------------------
+  buckleyTrioData:
+    command: readFile('data/trioData/buckley_lj_1991_m74_125_table1.csv') # single table
+
+  kokitaTrioData:
+    command: readFile('data/trioData/kokita_t_2003_m143_593_fig3.csv') # single figure
+
+  bradfordTrioData:
+    command: crunchBradfordData() # matched between figures
+
+  # Analysis ------------------------------------------------
+  spawningTable:
+    command: readFile('data/spawningMode.csv')
+
+  fecundityMassScalingModel:
+    command: fitFecundityMassScalingModel(fecFemSizePhyData)
+
+  fecundityMassScalingNoSingleObsModel:
+    command: removeSingleSpeciesAndFitModel(modelFunction = I('fitFecundityMassScalingModel'), data = fecFemSizePhyData)
+
+  totalVolumeMassScalingNoSingleObsModel:
+    command: removeSingleSpeciesAndFitModel(modelFunction = I('fitTotalVolumeMassScalingModel'), data = fecFemSizeVolPhyData)
+
+  fecundityMassScalingModelSpw:
+    command: fitFecundityMassScalingModelWithSpawningInteraction(fecFemSizePhyData)
+
+  fecundityMassScalingModelWithPhylogenySlope:
+    command: fitFecundityMassScalingModelWithPhylogenySlope(fecFemSizePhyData)
+  
+  modelCompFecSpw:
+    command: fecundityModelComparison(fecundityMassScalingModelSpw, fecundityMassScalingModel)
+
+  modelCompFec:
+    command: fecundityModelComparison(fecundityMassScalingModelWithPhylogenySlope, fecundityMassScalingModel)
+
+  fecundityMassScalingModelNoFieldLab:
+    command: fitFecundityMassScalingModelNoFieldLab(fecFemSizePhyData)
+  
+  eggMassScalingModel:
+    command: fitEggMassScalingModel(volFemSizePhyData)
+  
+  eggMassScalingNoSingleObsModel:
+    command: removeSingleSpeciesAndFitModel(modelFunction = I('fitEggMassScalingModel'), data = volFemSizePhyData)
+
+  eggMassScalingModelSpw:
+    command: fitEggMassScalingModelWithSpawningInteraction(volFemSizePhyData, spawningTable)
+
+  eggMassScalingModelNoFieldLab:
+    command: fitEggMassScalingModelNoFieldLab(volFemSizePhyData)
+
+  modelCompEggSpw:
+    command: fecundityModelComparison(eggMassScalingModelSpw, eggMassScalingModel)
+
+  energyVolScalingModel:
+    command: fitEnergyVolumeScalingModel(engVolPhyData)
+
+  energyVolScalingNoSingleObsModel:
+    command: removeSingleSpeciesAndFitModel(modelFunction = I('fitEnergyVolumeScalingModel'), data = engVolPhyData)
+
+  energyVolScalingModelSpw:
+    command: fitEnergyVolumeScalingModelWithSpawningInteraction(engVolPhyData, spawningTable)
+
+  energyVolScalingModelNoCorsica:
+    command: fitEnergyVolumeScalingModelNoCorsica(engVolPhyData)
+
+  modelCompEngSpw:
+    command: fecundityModelComparison(energyVolScalingModelSpw, energyVolScalingModel)
+
+  # Figures -------------------------------------------------
+  taxonomyTab:
+    command: createTaxonomyTab(fecundityMassScalingModel, eggMassScalingModel, energyVolScalingModel, spawningTable)
+
+  sppSpecReproOutAll:
+    command: getSppSpecReproOutAll(fecundityMassScalingModel, eggMassScalingModel, energyVolScalingModel, taxonomyTab)
+
+  otlsPngPicTab:
+    command: readFile('figures/otlSpeciesPngPicMatch.csv')
+
+  output/figures/fig1.pdf:
+    command: makeFigure1(dest = target_name, fecundityMassScalingModel, eggMassScalingModel, energyVolScalingModel, I('Gadus_morhua_ott5860467'))
+   
+  output/figures/fig2.pdf:
+    command: makeFigure2(dest = target_name, fecFemSizePhyData, fecundityMassScalingModel, volFemSizePhyData, eggMassScalingModel, engVolPhyData, energyVolScalingModel)
+  
+  output/figures/fig3.pdf:
+    command: makeFigure3(dest = target_name, sppSpecReproOutAll, fecundityMassScalingModel, eggMassScalingModel, energyVolScalingModel, otlsPngPicTab)
+
+  output/figures/figS1.pdf:
+    command: makeFigureS1(dest = target_name, engVolPhyData, energyVolScalingModel)
+  
+  output/figures/fig1.png:
+    command: generatePngs(I('output/figures/fig1.pdf'))
+    depends: output/figures/fig1.pdf
+      
+  output/figures/fig2.png:
+    command: generatePngs(I('output/figures/fig2.pdf'))
+    depends: output/figures/fig2.pdf
+
+  output/figures/fig3.png:
+    command: generatePngs(I('output/figures/fig3.pdf'))
+    depends: output/figures/fig3.pdf
+
+  output/figures/figS1.png:
+    command: generatePngs(I('output/figures/figS1.pdf'))
+    depends: output/figures/figS1.pdf
+
+  # Table ---------------------------------------------------
+  output/tables/tableS3.csv:
+    command: makeTableS3(dest = target_name, fecFemSizePhyData, fecundityMassScalingModel, sppSpecReproOutAll, spawningTable)
+
+  tableS3:
+    command: readFile('output/tables/tableS3.csv', check.names = FALSE)
+
+  output/tables/tableS4.csv:
+    command: makeTableS4(dest = target_name, volFemSizePhyData, eggMassScalingModel, sppSpecReproOutAll, spawningTable)
+
+  tableS4:
+    command: readFile('output/tables/tableS4.csv', check.names = FALSE)
+
+  output/tables/tableS5.csv:
+    command: makeTableS5(dest = target_name, engVolPhyData, energyVolScalingModel, sppSpecReproOutAll, spawningTable)
+
+  tableS5:
+    command: readFile('output/tables/tableS5.csv', check.names = FALSE)
+
+  output/tables/tableS6.csv:
+    command: makeTableS6(dest = target_name, fecFemSizeVolPhyData, totalVolumeMassScalingNoSingleObsModel, sppSpecReproOutAll, spawningTable)
+
+  tableS6:
+    command: readFile('output/tables/tableS6.csv', check.names = FALSE)
+
+  output/tables/tableS7.csv:
+    command: makeTableS7(dest = target_name, sppSpecReproOutAll, spawningTable)
+
+  tableS7:
+    command: readFile('output/tables/tableS7.csv', check.names = FALSE)
+
+  output/tables/tableS8.csv:
+    command: makeTableS8(dest = target_name, buckleyTrioData, kokitaTrioData, bradfordTrioData)
+
+  tableS8:
+    command: readFile('output/tables/tableS8.csv', check.names = FALSE)
