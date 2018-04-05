@@ -4,6 +4,8 @@ This repository contains code and data needed to reproduce the article:
 
 **Barneche DR, Robertson DR, White CR, Marshall DJ** (accepted) Fish reproductive-energy output increases disproportionately with body size. *Science*. doi: 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1213118.svg)](https://doi.org/10.5281/zenodo.1213118)
+
 ## Instructions
 
 All analyses were done in `R`. To compile the paper, including figures and tables we use the [remake](https://github.com/richfitz/remake) package for R. You can install remake using the `devtools` package:
