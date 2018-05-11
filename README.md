@@ -2,7 +2,7 @@
 
 This repository contains code and data needed to reproduce the article:
 
-**Barneche DR, Robertson DR, White CR, Marshall DJ** (accepted) Fish reproductive-energy output increases disproportionately with body size. *Science*. doi: 
+**Barneche DR, Robertson DR, White CR, Marshall DJ** (accepted) Fish reproductive-energy output increases disproportionately with body size. *Science*. [doi: 10.1126/science.aao6868](http://science.sciencemag.org/content/360/6389/642.full)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1213118.svg)](https://doi.org/10.5281/zenodo.1213118)
 
